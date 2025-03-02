@@ -1,2 +1,3 @@
-# motion-classification
-Transformer Encoder based Motion Classification with MediaPipe Holistic Pose Model
+# Transformer Encoder based Motion Classification with MediaPipe Holistic Pose Model
+
+refer to jupyter notebooks
